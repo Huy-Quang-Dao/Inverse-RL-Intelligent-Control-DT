@@ -36,3 +36,14 @@ K_{Learner} =    \begin{bmatrix}
 | Output result       |
 | ------------- |
 | <img src="./Gif/trajectory_fps15.gif" alt="drawing" width="400"/>      | 
+
+## Docker
+I will provide DockerFile soon.
+
+## Requirements
+
+* **Julia v1.10.3**
+* **LinearAlgebra**
+* **Plots**
+* **Kronecker**
+
